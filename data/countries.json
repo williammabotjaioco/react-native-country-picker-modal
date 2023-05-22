@@ -313,6 +313,68 @@
       "kor": "나이지리아"
     }
   },
+  "SD": {
+  "currency": [
+    "SDG"
+  ],
+  "callingCode": [
+    "249"
+  ],
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAMlQTFRFYGAA3hQA/wAAAZoAPHYAxCQA/gAAAJoAAJwAG4oAmD4A9wUAAJsACJYAZ1wA5BAAAZsAO3YAZ1sA5B8P/x8h/x8fO5kjxMik/uHi/+Dh/+DgG6YdmNia9/34////AJkACJ0IZ8Nn5PTkAZkBO7E7xOfE/v/+GaQZnNic/f79PLI8xOjEaMNoHaYdmtia+P34I5kjpcil4uHi4eHh4ODgAJYAAFsADx8PIR8hHx8fAIoAAD4AAAUAAAAAAHYAACQAABAAAGAAABQAPQknRwAAAAFiS0dEHnIKICsAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAC6SURBVDjLrdLXDoJQFERRFPVYsPcKir33fm3//1ESIIgGcubBeV7Jzi2SFAhCk+RQOAJBisbiCQiSkkylIUiUyfJ5EyJ5CwJ5G/J5B3L5DzTyuXyh6DcXJJJL5Uq15r0vSFRvNFve+4Gq1u5AkEjv9voQJHUwHP0V6uMJkla1KXaY2XwBXc9ytd5sved+wt3+cDz5zfUpzper8J8DldtdCB4a2YcAIJN1IJe1IZ+1IJC1IJA14fMFOfEGHmN+xeZewuYAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6NDYrMDI6MDB+rDD1AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjQ2KzAyOjAwD/GISQAAAABJRU5ErkJggg==",
+  "name": {
+    "common": "Sudan",
+    "ces": "Súdán",
+    "deu": "Sudan",
+    "fra": "Soudan",
+    "hrv": "Sudan",
+    "ita": "Sudan",
+    "jpn": "スーダン",
+    "nld": "Soedan",
+    "por": "Sudão",
+    "rus": "Судан",
+    "slk": "Sudán",
+    "spa": "Sudán",
+    "fin": "Sudan",
+    "est": "Sudaan",
+    "zho": "苏丹",
+    "pol": "Sudan",
+    "urd": "سودان",
+    "kor": "수단"
+  }
+},
+  "SS": {
+  "currency": [
+    "SSP"
+  ],
+  "callingCode": [
+    "211"
+  ],
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAArJQTFRFCzWDAw0hAAAAAAEBAAEDEEq3D0atCCdfAQUMAAECD0ewEE29DkKiBhxGD0evD0asD0izEEy7DDmNBBIsAAABD0euCi91AgkXEEy6CCRaAQQJEEy8DT+cBRk+AQEBD0m0DDeHAw8mEEiuD0auEEu4EEm1CCttCA4ZIR0VExMTDQ4PEQ4OEQ0ODkawC0SyD0u6E0mtepTG6+vt/v337v7+7v//8P/+DUawFUurJlafCUOzEUitEUiuEkmtAj2tNWrDsJ7B+ouK+oqK7o6U8I2S8Y2RsK89JVSgB0K1ATy7EEeuEkmvBkCrADelQSd2sQkk5QAA2gAF0gAL1gAIEUmtFEqsB0G12ckftrM4BUC2OWGSjZZXOGGSB0K0EUivEkqxBE67DEy1YzV1zBop6hIT2xYe2BcgBUC3ADm+CkSy08Mm/+UB1cQl/+oApqpDBkG1EkatAEu6G0Smgilb3hEX5w8Q2RIb2hIaR2uIoKNK3soe/N0J+NsL/+cAyb0tCkOzEkasDUixBEq3KECdmyNJ3xEXR2qIn6JKyb0sKECcmyNI1MMlpqtDHESmgila2coftrI5jJZYDUy1ZDV1sK49EEevBkCsADimsQok2gAG0wEL1gAJJlWfD0itDkavAjqsNWjDsJzA+oiJ+YiK7YuT8IuR8YuQD0ivD0K3E0yue5/J7PTw/v/67/7/7///8f//D0S1EEWzC19+D4ZCKJ5CGpI/FI08F407F406D0WyEEO3DVaSCXtMB44oBYorAIQsAoYsA4csEEK5Dk6hCnFeB4ssB4wqB4gyB4kxCIoxD0iuC2dxB4c0Bo0nB4kwD0S0DF2FCIBABo4mB4ovD0ayEEK4DVSWCXhQB40oDkylCm5jB4otB40pB4gxC2V1B4U3Bo4nDViPCH1IBo8lB4ou////wjbOagAAAAFiS0dE5VhlC78AAAAJcEhZcwAAAEgAAABIAEbJaz4AAAHTSURBVDjLY2BgZGJmYSIMGFjZ2DmYODkJK2Tj4ubh5SSslIGPj19AUEiYSYRThJBCPlF+VlYxcSZmTkIK+fjY2CT4JaXw2g9RCLSfS1pGlgmoVA4HgCkE2i8vqKDIJELIRCU+PmV+FVU1dQ1NLW0dLACqUFdPCeRUPn0DQyNjE1MzTABRaG5haWVtYwtUqmtn7+Do5Oziig4gCnVt3dw9PDy9gExvH18//4DAoGA0AFYYEhoWHhEZFR0Ta8PHFxefkJiUnJKalooCwArTMzKzsnNy8/JtwOYX8BUWFZeUlpUjA5BC3YrKquqa2rp6cyVoGDQ0NjW3tJZhKGxrBynsQFHY2YWpEGJ1d24PwurePmxWgzzTPyEyZiLMM5Mm4/AMMHimgIJnKih4pk33mxEwc9ZsbMEDDPA5kACfO2/+goWLFi9ZugwdoETh3OUrVq5avWbtuvWYAClRiM7dsHHT5i1bt23fgQXAkxnf3J27du/Zu2//gYNYAUzhXK5Dh48cPXb8xEkcAKLw1Kldc0+fOXvi+DmcAJy55m44f+Hipct4lIEVzr1y9dr1G0fxKgMqPMV16Oat23eO3z1HQOGGuffuPzhHwDiQwoePHj8hrOzcOQAzcawWKKBwzgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNTowMCswMjowMHb0YAsAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTU6MDArMDI6MDAHqdi3AAAAAElFTkSuQmCC",
+  "name": {
+    "common": "South Sudan",
+    "ces": "Jižní Súdán",
+    "deu": "Südsudan",
+    "fra": "Soudan du Sud",
+    "hrv": "Južni Sudan",
+    "ita": "Sudan del sud",
+    "jpn": "南スーダン",
+    "nld": "Zuid-Soedan",
+    "por": "Sudão do Sul",
+    "rus": "Южный Судан",
+    "slk": "Južný Sudán",
+    "spa": "Sudán del Sur",
+    "fin": "Etelä-Sudan",
+    "est": "Lõuna-Sudaan",
+    "zho": "南苏丹",
+    "pol": "Sudan",
+    "urd": "جنوبی سوڈان",
+    "kor": "남수단"
+  }
+},
   "ZA": {
     "currency": [
       "ZAR"
