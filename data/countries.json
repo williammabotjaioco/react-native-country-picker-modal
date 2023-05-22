@@ -63,6 +63,38 @@
       "kor": "베냉"
     }
   },
+  "CG": {
+  "currency": [
+    "XAF"
+  ],
+  "callingCode": [
+    "242"
+  ],
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAGxQTFRFAMoABMsAAMcAJdAA5voA//8A/v8A//0AA8sAAMgAIdAA2/gA/f8A//4AItAA3vgA/P4A//wA/+AA/9oA/yQA/98A/yEA/wAA/94A/wQA/wMA3/kAJNEA2vcA4fkA/9sA/yAA/+UA/yUA////3y6slQAAAAFiS0dEIypibDoAAAAJcEhZcwAAAEgAAABIAEbJaz4AAACFSURBVDjLjdQ5EoJAFADRDzooKOJKi7ve/5BGigZT1R2/uCMyFeVkmqr0aZZz87pZpOXo2pwrV11af90mbXOu+Xe7vXOHHuWOPYN0J6zDOqzDOqzDOqzDOqzDOqzDOqzDOqzDOqwjilo5omzOxhGXq3LEzTmi+vlGuj9yjhhdm54vhozjDTVWMskJsLmPAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE1OjEyKzAyOjAwLcFxvAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNToxMiswMjowMFycyQAAAAAASUVORK5CYII=",
+  "name": {
+    "common": "Republic of the Congo",
+    "ces": "Kongo",
+    "cym": "Gweriniaeth y Congo",
+    "deu": "Kongo",
+    "fra": "Congo",
+    "hrv": "Kongo",
+    "ita": "Congo",
+    "jpn": "コンゴ共和国",
+    "nld": "Congo",
+    "por": "Congo",
+    "rus": "Республика Конго",
+    "slk": "Kongo",
+    "spa": "Congo",
+    "fin": "Kongo-Brazzaville",
+    "est": "Kongo Vabariik",
+    "zho": "刚果",
+    "pol": "Kongo",
+    "urd": "جمہوریہ کانگو",
+    "kor": "콩고"
+  }
+},
   "CY": {
     "currency": [
       "EUR"
