@@ -95,6 +95,37 @@
     "kor": "콩고"
   }
 },
+  "CI": {
+  "currency": [
+    "XOF"
+  ],
+  "callingCode": [
+    "225"
+  ],
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABVQTFRF/96rqO6o/5oA/5sC////As0CAM0AN4JbVAAAAAJ0Uk5T/v6mqd4QAAAAAWJLR0QEj2jZUQAAAAlwSFlzAAAASAAAAEgARslrPgAAABpJREFUKM9jUAIDAxcwEE0DA4ZRwVFBWgoCADuSl4cKLQ/UAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE1OjA4KzAyOjAwRRsubAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNTowOCswMjowMDRGltAAAAAASUVORK5CYII=",
+  "name": {
+    "common": "Ivory Coast",
+    "ces": "Pobřeží slonoviny",
+    "deu": "Elfenbeinküste",
+    "fra": "Côte d'Ivoire",
+    "hrv": "Obala Bjelokosti",
+    "ita": "Costa d'Avorio",
+    "jpn": "コートジボワール",
+    "nld": "Ivoorkust",
+    "por": "Costa do Marfim",
+    "rus": "Кот-д’Ивуар",
+    "slk": "Pobržie Slonoviny",
+    "spa": "Costa de Marfil",
+    "fin": "Norsunluurannikko",
+    "est": "Elevandiluurannik",
+    "zho": "科特迪瓦",
+    "pol": "WybrzeŻe Kości Słoniowej",
+    "urd": "آئیوری کوسٹ",
+    "kor": "코트디부아르"
+  }
+},
   "CY": {
     "currency": [
       "EUR"
