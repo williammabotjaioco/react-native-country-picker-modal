@@ -406,6 +406,37 @@
     "kor": "남수단"
   }
 },
+  "UG": {
+  "currency": [
+    "UGX"
+  ],
+  "callingCode": [
+    "256"
+  ],
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAASxQTFRFAAAAHxwA4MsA/+kA/+cA/+gA+9IB+9EA+tAA+tME+tIC+s8A4k4H4kwF32Eg341c0pJG4bBy5Jlp32Af3jgI3TYG3F888NHL4NjbalUyvaGC/fn978/K3jkI3jgG20sg79DI////zsfHXFNS29nb4DkI3zYE4YRp/fz+//3/nJybdHVz8e/x//7//fz9wzIHwjEG3qiZ+/n7a2xrSU1Jur2618nG9+7tGwcBGQYAn5eWwL7AR0hHT01Kn0Ms3XVe/vf4n5iXZWRl7uzusbCxS0xNpnlv0lI19eflZWVmGhoax8bH9/f3paOlsa+xp6ep2cO/47ClxsTFNTU3xMPG8vDzs7K1sbCz+ff6xMTHHBkAODUagHxhjIhtn5uBgn5j38oA3cgA4cwC4MsBYexgUAAAAAFiS0dEIcRsDRYAAAAJcEhZcwAAAEgAAABIAEbJaz4AAADaSURBVDjLY2AYAoCRSMDARCRgYCYSMLAQCRhYiQQMbOiAnYOTi5sdQ5iBBw3w8vELCAoJ86KLM4igAlExcQlJKWkZMVE0CQZZFCAnr6CopKyiqKggL4cqw6CKAtTUNTS1tHV0dfXU1VBlGPRRgIGhopGxiamZuaKhAaoMgwUKsLRSVLS2sbWzd3C0RJVBj3onPU1nF1c3dw9PAmnEy9vH188/IDDIi1BqCg4JDQuPiAwmmMyiomNi4+Kjowgns4TEpOTEhMGdzHAAjGSGC6AnM5wALZnhBtRXCAA5O0ad99aTXAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDoyNyswMjowMB60MsYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6MjcrMDI6MDBv6Yp6AAAAAElFTkSuQmCC",
+  "name": {
+    "common": "Uganda",
+    "ces": "Uganda",
+    "deu": "Uganda",
+    "fra": "Ouganda",
+    "hrv": "Uganda",
+    "ita": "Uganda",
+    "jpn": "ウガンダ",
+    "nld": "Oeganda",
+    "por": "Uganda",
+    "rus": "Уганда",
+    "slk": "Uganda",
+    "spa": "Uganda",
+    "fin": "Uganda",
+    "est": "Uganda",
+    "zho": "乌干达",
+    "pol": "Uganda",
+    "urd": "یوگنڈا",
+    "kor": "우간다"
+  }
+},
   "ZA": {
     "currency": [
       "ZAR"
